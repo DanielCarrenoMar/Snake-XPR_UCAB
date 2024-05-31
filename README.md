@@ -3,7 +3,7 @@
 </a>
 
 # ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Snake configurable
-El clásico snake con una pantalla para configurar aspectos del juego como: Espacio de juego, cantidad de manzanas, longitud por manzana y velocidad. Además de modificar todos los colores en pantalla
+El clásico snake con una pantalla para configurar aspectos del juego como: espacio de juego, cantidad de manzanas, longitud por manzana y velocidad. Además de modificar todos los colores en pantalla
 y contener un modo secreto multijugador *(prueba ingresar el código conami)*.
 
 ![Menu](https://github.com/DanielCarrenoMar/Snake-XPR_UCAB/assets/144462396/77e014b9-e0da-4ff7-9f2b-fa92bc88c42c)
