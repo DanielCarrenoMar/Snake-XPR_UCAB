@@ -9,7 +9,7 @@ y contener un modo secreto multijugador *(prueba ingresar el código conami)*.
 ![Menu](https://github.com/DanielCarrenoMar/Snake-XPR_UCAB/assets/144462396/77e014b9-e0da-4ff7-9f2b-fa92bc88c42c)
 ![Juego](https://github.com/DanielCarrenoMar/Snake-XPR_UCAB/assets/144462396/01a843a8-897f-49f0-986b-fb5c3bc117c8)
 
->***💻 Usado como muestra en varias XPR.***
+>***💻 Usado en varias XPR-UCAB.***
 ## Características ⭐
 - Sonido.
 - Configurable.
@@ -22,3 +22,7 @@ y contener un modo secreto multijugador *(prueba ingresar el código conami)*.
 ## Librerías Utilizadas 📚
 - Pygame
 - Pygame_menu
+# Ejecución 💻
+1. Instala el *Snake.zip* que esta en *releases*.
+2. Descomprimelo.
+3. Ejecuta el .exe.
