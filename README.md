@@ -9,7 +9,7 @@ y contener un modo secreto multijugador *(prueba ingresar el código conami)*.
 ![Menu](https://github.com/DanielCarrenoMar/Snake-XPR_UCAB/assets/144462396/77e014b9-e0da-4ff7-9f2b-fa92bc88c42c)
 ![Juego](https://github.com/DanielCarrenoMar/Snake-XPR_UCAB/assets/144462396/01a843a8-897f-49f0-986b-fb5c3bc117c8)
 
->***💻 Usado en varias experiencias [XPR-UCAB](https://www.ucab.edu.ve/informacion-institucional/vicerrectorado-administrativo/proyectos-de-infraestructura-page-5/#:~:text=Laboratorio%20XPR%2DLab%20(de%20car%C3%A1cter%20experiencial)&text=Descripci%C3%B3n%3A%20El%20espacio%20est%C3%A1%20dise%C3%B1ado,realidad%20aumentada%20de%20%C3%BAltima%20generaci%C3%B3n.).***
+>***💻 Usado en varias experiencias XPR-UCAB.***
 ## Características ⭐
 - Sonido.
 - Configurable.
